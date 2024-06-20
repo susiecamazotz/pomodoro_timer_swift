@@ -1,6 +1,6 @@
-# PomodoroXApp
+# PomodoroX
 
-PomodoroXApp is a simple yet powerful Pomodoro timer app designed for users who want to boost their productivity by implementing the Pomodoro Technique. Built with Swift, this app provides a clean and intuitive interface to help manage your work and break intervals effectively.
+PomodoroX is a simple yet powerful Pomodoro timer app designed for users who want to boost their productivity by implementing the Pomodoro Technique. Built with Swift, this app provides a clean and intuitive interface to help manage your work and break intervals effectively.
 
 ## Features
 
